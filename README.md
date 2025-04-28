@@ -1,7 +1,9 @@
 # 📋 Tabulara
 
 **Notion-style tables, made easy.**  
-Beautiful, flexible, and lightweight JavaScript tables for modern web apps.
+Beautiful, flexible, and lightweight JavaScript tables for modern web apps. More at https://tabulara.ikigai.systems.
+
+![illustration.png](https://tabulara.ikigai.systems/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnotion-table-example1.23bf1622.png&w=1080&q=75)
 
 ## ✨ Features
 
@@ -11,19 +13,6 @@ Beautiful, flexible, and lightweight JavaScript tables for modern web apps.
 - ✏️ **Editable tables** — Enable inline editing with one config switch.
 - 🔥 **Fast performance** — Handles large datasets smoothly.
 - 🎯 **Developer-friendly API** — TypeScript support included.
-
-## 🚀 Installation
-
-Using npm:
-
-```bash
-npm install tabulara
-```
-
-Or via CDN:
-```html
-<script src="https://cdn.jsdelivr.net/npm/tabulara"></script>
-```
 
 ## 🛠️ Quick Start
 
@@ -48,14 +37,6 @@ In your HTML
 ```html
 <div id="my-table"></div>
 ```
-
-## 📚 Documentation
-Full documentation is coming soon!
-In the meantime, check out:
-
-- [Quickstart Guide (Coming Soon)]()
-- [API Reference (Coming Soon)]()
-- [Live Demo (Coming Soon)]()
 
 ## 📅 Current Status
 🚧 **Tabulara is currently in pre-release development.**
